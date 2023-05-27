@@ -1,0 +1,85 @@
+
+
+        
+        <div class="project-box wow fadeIn" data-bg="#f1dad6">
+          <figure> <a href="./images/port-icon/Brands-18.jpg" data-fancybox><img src="./images/port-icon/Brands-18.jpg" alt="Image"></a></figure>
+          <div class="content-box">
+            <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
+              <h3><span>Clonney</span>Colors</h3>
+              <div class="custom-link"> <a href="./work-single1.php">
+                <div class="lines"> <span></span> <span></span> </div>
+                <!-- end lines --> 
+                <b>PROJECT DETAILS</b></a> </div>
+              <!-- end custom-link --> 
+            </div>
+            <!-- end inner --> 
+          </div>
+          <!-- end content-box --> 
+        </div>
+        <!-- end project-box --> 
+        <div class="project-box wow fadeIn" data-bg="#f1dad6">
+          <figure> <a href="./images/port-icon/Brands-19.jpg" data-fancybox><img src="./images/port-icon/Brands-19.jpg" alt="Image"></a></figure>
+          <div class="content-box">
+            <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
+              <h3><span>Clonney</span>Colors</h3>
+              <div class="custom-link"> <a href="./work-single1.php">
+                <div class="lines"> <span></span> <span></span> </div>
+                <!-- end lines --> 
+                <b>PROJECT DETAILS</b></a> </div>
+              <!-- end custom-link --> 
+            </div>
+            <!-- end inner --> 
+          </div>
+          <!-- end content-box --> 
+        </div>
+        
+        <div class="project-box wow fadeIn" data-bg="#f1dad6">
+          <figure> <a href="./images/port-icon/Brands-21.jpg" data-fancybox><img src="./images/port-icon/Brands-21.jpg" alt="Image"></a></figure>
+          <div class="content-box">
+            <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
+              <h3><span>Clonney</span>Colors</h3>
+              <div class="custom-link"> <a href="./work-single1.php">
+                <div class="lines"> <span></span> <span></span> </div>
+                <!-- end lines --> 
+                <b>PROJECT DETAILS</b></a> </div>
+              <!-- end custom-link --> 
+            </div>
+            <!-- end inner --> 
+          </div>
+          <!-- end content-box --> 
+        </div>
+        <!-- end project-box --> 
+        
+        <div class="project-box wow fadeIn" data-bg="#f1dad6">
+          <figure> <a href="./images/port-icon/Brands-24.jpg" data-fancybox><img src="./images/port-icon/Brands-24.jpg" alt="Image"></a></figure>
+          <div class="content-box">
+            <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
+              <h3><span>Clonney</span>Colors</h3>
+              <div class="custom-link"> <a href="./work-single1.php">
+                <div class="lines"> <span></span> <span></span> </div>
+                <!-- end lines --> 
+                <b>PROJECT DETAILS</b></a> </div>
+              <!-- end custom-link --> 
+            </div>
+            <!-- end inner --> 
+          </div>
+          <!-- end content-box --> 
+        </div>
+        <!-- end project-box -->
+
+        <div class="project-box wow fadeIn" data-bg="#f1dad6">
+          <figure> <a href="./images/port-icon/Brands-13.jpg" data-fancybox><img src="./images/port-icon/Brands-13.jpg" alt="Image"></a></figure>
+          <div class="content-box">
+            <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
+              <h3><span>Danfit</span>Creatives</h3>
+              <div class="custom-link"> <a href="./work-single1-danfit.php">
+                <div class="lines"> <span></span> <span></span> </div>
+                <!-- end lines --> 
+                <b>PROJECT DETAILS</b></a> </div>
+              <!-- end custom-link --> 
+            </div>
+            <!-- end inner --> 
+          </div>
+          <!-- end content-box --> 
+        </div>
+        <!-- end project-box --> 
